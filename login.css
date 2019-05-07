@@ -1,1 +1,12 @@
-ingo-login-widget .middle-invitation .login-buttons a {background-color: #f44336; !important;}
+.ingo_login_widget_login_button_facebook 
+{background-color: #f44336;
+  padding: 280px 54px;
+  !important;}
+.ingo_login_widget_login_button_twitter 
+{background-color: #f44336;
+  padding: 280px 54px;
+  !important;}
+.ingo_login_widget_login_button_linkedin 
+{background-color: #f44336;
+  padding: 280px 54px;
+  !important;}
